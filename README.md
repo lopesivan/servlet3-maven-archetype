@@ -31,7 +31,7 @@ Create project based on this archetype
 $ mvn archetype:generate \
     -DarchetypeGroupId=pl.maciejwalkowiak \
     -DarchetypeArtifactId=servlet3-webapp-archetype \
-    -DarchetypeVersion=1.0
+    -DarchetypeVersion=1.0.1
 ```
 
 Run project:
