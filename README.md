@@ -15,7 +15,7 @@ mvn archetype:create \
 Clone this repository
 
 ```bash
-$ git clone https://github.com/maciejwalkowiak/servlet3-maven-archetype.git
+$ git clone https://github.com/lopesivan/servlet3-maven-archetype.git
 ```
 
 Install it to local Maven repository
