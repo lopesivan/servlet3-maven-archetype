@@ -29,7 +29,7 @@ Create project based on this archetype
 
 ```bash
 $ mvn archetype:generate \
-    -DarchetypeGroupId=pl.maciejwalkowiak \
+    -DarchetypeGroupId=project._42algoritmos \
     -DarchetypeArtifactId=servlet3-webapp-archetype \
     -DarchetypeVersion=1.0.1
 ```
