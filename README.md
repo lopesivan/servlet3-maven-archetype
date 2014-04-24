@@ -31,3 +31,5 @@ Run project:
 ```bash
 $ mvn tomcat7:run
 ```
+
+Might be worth an extra line at the end of the documentation to note that the URL given by the tomcat plugin (eg [INFO] Running war on http://localhost:8080/{your artifactId} ) needs to have /hello appended to it.
