@@ -2,14 +2,6 @@
 
 Project provides Maven archetype for creating plain simple Servlet 3 based webapplication
 
-```bash
-mvn archetype:create \
-    -DgroupId=com.mycompany.app \
-    -DartifactId=my-webapp \
-    -DarchetypeArtifactId=maven-archetype-webapp
-```
-
-
 ##Installation
 
 Clone this repository
